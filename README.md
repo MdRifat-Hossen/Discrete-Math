@@ -48,5 +48,5 @@
   <br/>
   <li>Write a program to find a real root of the equation x2−4x−10=0 that lies between -2 and -1.5 using bisection method.</li>
   <br/>
-  <li>Write a program to find a root of the function 𝑥2−𝑥−2=0 in the range 1<x<3<br/> using false position method.<br/></li>
+  <li>Write a program to find a root of the function 𝑥2−𝑥−2=0 in the range [1 greter than x greter than 3] using false position method.</li>
 </ol>
